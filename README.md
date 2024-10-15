@@ -12,12 +12,6 @@ Este projeto tem como objetivo desenvolver um sistema digital para somar dois n�
 - Converte a soma paralela para uma saída serial.
 - Usa LEDs para indicar o resultado da soma e a saída serial.
 
-### Componentes
-- **LEDs amarelos:** Indicam a soma binária.
-- **LED vermelho:** Sinaliza a sequência serial.
-- **Dip Switches:** Chaveiam as entradas binárias.
-- **Push-Buttons:** Controlam a saída serial.
-
 ### Artefatos Entregues
 - Memorial descritivo.
 - Esquema do projeto em EasyEDA.
