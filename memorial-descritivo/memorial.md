@@ -17,7 +17,7 @@ Este projeto consiste em um somador paralelo de dois números binários de 4 bit
 | LED Amarelo                         | -                      | Indica visualmente o resultado da soma binária (0 = apagado, 1 = aceso). | 6             |
 | LED Vermelho                        | -                      | Sinaliza a sequência serial (aceso = 1, apagado = 0). | 1             |
 | Dip Switch                          | -                      | Chaveia manualmente as entradas binárias (A e B) para o somador de 4 bits. | 2             |
-| Push-Button                         | -                      | Controla a saída serial dos bits somados para o LED vermelho. | 4             |
+| Push-Button                         | -                      | Controla a saída serial dos bits somados para o LED vermelho. | 2             |
 | Protoboard                          | -                      | Plataforma usada para montagem e teste do circuito. | 1             |
 
 ---
