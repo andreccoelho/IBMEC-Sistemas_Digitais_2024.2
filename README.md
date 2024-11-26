@@ -1,5 +1,7 @@
 # Projeto Somador Paralelo/Serial  
 
+![IMG-20241126-WA0021](https://github.com/user-attachments/assets/2b91711a-678c-4dae-b1eb-8e551615d976)
+
 ## Disciplina: Sistemas Digitais  
 **Equipe:** André Costa & Michel Lutegar  
 
