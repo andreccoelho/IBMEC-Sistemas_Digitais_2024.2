@@ -8,7 +8,7 @@
 ---
 
 ## Descrição Geral  
-Este projeto consiste em um somador paralelo de dois números binários de 4 bits. A saída é indicada por LEDs, incluindo um LED azul para sinalizar o carry da soma. A soma paralela é convertida para uma sequência serial com o uso de um contador crescente cíclico baseado em flip-flops JK e um multiplexador. O projeto também inclui um subtrator de 4 bits, implementado por meio de complemento de 2.  
+Este projeto consiste em um somador paralelo de dois números binários de 4 bits. A saída é indicada por LEDs, incluindo um LED azul para sinalizar o carry da soma. A soma paralela é convertida para uma sequência serial com o uso de um contador crescente cíclico baseado em flip-flops JK e um multiplexador. 
 
 ---
 
