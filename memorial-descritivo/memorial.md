@@ -23,7 +23,7 @@ Este projeto consiste em um somador paralelo de dois números binários de 4 bit
 | LED Azul                             | -                       | Indica o carry da soma binária.             | 1             |
 | LED Verde                            | -                       | Sinaliza a sequência serial (aceso = 1, apagado = 0). | 1             |
 | Dip Switch                           | -                       | Chaveia manualmente as entradas binárias (A e B) para o somador de 4 bits. | 2             |
-| Resistores                           | -                       | Protegem os LEDs e realizam debounce nas entradas. | 10            |
+| Resistores                           | -                       | Protegem os LEDs e realizam debounce nas entradas. | 14            |
 | Placa Universal Perfurada            | -                       | Protótipo final para montagem do circuito.  | 1             |
 | Gerador de Clock                     | -                       | Gera o sinal de sincronismo para o contador crescente cíclico. | 1             |
 
